@@ -1,0 +1,31 @@
+ACQ PROJECT
+
+The ACQ application is a startup application, which is an AC technician booking system. This application provides ordering services for AC repair, maintenance and cleaning services. In developing this project, my position was as a fullstack web developer
+
+Presensi Project
+
+The attendance project is a web application for scheduling and a centralized attendance system in Polindra. This application was created to record student attendance and manage the schedule for each class. In developing this project, my position was as a Fullstack Web Developer.
+
+Virtual Technopark
+
+Virtual Technopark is an application supported by
+Ministry of Industry (KEMENPERIN) to
+provides a platform for every startup, association, and
+people in Indonesia directly
+under the auspices of the Ministry of Industry. Under development
+In this project, my position is as a Full Stack Web Developer
+
+Ristermas
+
+The Ristermas application was developed to ensure smooth data flow and fix bugs in previously developed applications. This application manages the flow of research and community service documents carried out by lecturers at the Indramayu State Polytechnic. In addition, this application ensures that the entire process complies with Ministry of Education and Culture regulations. In developing this project, my position was as a Fullstack web developer.
+
+DigiPosyandu
+
+The Digiposyandu application was developed for this purpose
+monitoring stunting data in
+village, sub-district and district levels in Indramayu. in development 
+this project, my position is as a fullstack web developer
+
+Schuler
+
+The Schuler app allows users to create and customize their own websites without needing to write code. This application provides backend features that are integrated into it. With a flexible template concept, users can choose functional components that suit their needs. In developing this project, my position was as a fullstack web developer.
